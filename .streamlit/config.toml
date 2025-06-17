@@ -1,0 +1,2 @@
+[server]
+headless = trueport = 8501enableCORS = false 
